@@ -1,4 +1,5 @@
------------------------------------------------------------------DESCRIPTION-------------------------------------------------------------------------
+--------------------------------------------------------------DESCRIPTION---------------------------------------------------------------
+
 The classification of  the gender from the real life images is done using Python programming language on Anaconda software.
 We will divide the datasets in two parts i.e Training dataset that will train the model and Testing dataset to check the model in order to obtain a certain accuracy. 
 ADIENCE Dataset- It contains around 17500 images which contains images as true as the real world scenarios.This problem lies in Supervised Learning domain(Classification) of Machine Learning as the classes are already defined i.e. MALE and FEMALE.
